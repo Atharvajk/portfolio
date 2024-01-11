@@ -1,0 +1,81 @@
+
+.intropagediv{
+    display:flex;
+    height: 680px;
+    /* background-color: #4CB9E7; */
+    color:#8ef9f3;
+    overflow: hidden; 
+    background: rgb(2,0,36);
+background: linear-gradient(180deg, rgba(2,0,36,1) 40%, rgb(3, 3, 73) 100%);
+
+margin-top: -25px;
+border-radius: 0px 0px 50px 50px;
+
+}
+.leftdiv{
+    display: flex;
+    
+    width: 60%;
+    /* color: white; */
+    align-items: center;
+    justify-content: center;
+}
+.rightdiv{
+    /* background-color: yellow; */
+    width: 50%;
+    overflow: hidden;
+}
+.profimgdiv{
+    margin-top: 5%;
+    overflow: hidden;
+    /* height: 700px; */
+    width: 700px;
+    overflow: hidden;
+    
+}
+.introname{
+    font-size: 6rem;
+}
+.introname span{
+    font-size: 4rem;
+    color: #5efc8d;
+}
+.leftdivinfo{
+    width: 80%;
+    
+}
+.mybutton{
+    height: 30px;
+    width: 50px;
+    height: 50px;
+    width: 180px;
+    margin-right: 10px;
+    border-radius: 10px;
+    color: #8ef9f3;
+}
+.downloadbut{
+    /* background-color: goldenrod; */
+    background-color: #5efc8d;
+    /* background-color: #E7EB90; */
+    color: black;
+}
+.contactbut{
+    background-color: inherit;
+    /* background-color: goldenrod; */
+    border: 1px solid #5efc8d;
+}
+.profileimgdot{
+    height: 599px;
+    width: 600px;
+    background-color: #bbb;
+    border-radius: 50%;
+    /* display: inline-block; */
+    position: absolute;
+    translate: 28px 79px;
+    z-index:1;
+    
+}
+.dotdiv{
+    overflow: hidden;
+    
+}

@@ -1,0 +1,71 @@
+.SkillSection{
+    
+    display: flex;
+    justify-content: center;
+    color:#8ef9f3;
+    overflow: hidden; 
+    
+}
+
+.skillicons{
+    
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+    width: 90%;
+    margin-bottom: 20px;
+}
+.skillcontainer{
+    
+    width: 80%;
+    background-color: rgb(3, 3, 73);
+    background: linear-gradient(0deg, rgba(2,0,36,1) 20%, rgb(3, 3, 73) 100%);
+
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.skill-btn{
+    background-color: brown;
+    display: flex;
+    align-self: center;
+    width: 140px;
+    
+    height: 46px;
+    font-size: 18px;
+    align-items: center;
+    justify-content: center;
+    margin: 10px; 
+    border-radius: 6px;
+}
+.skill-btn span{
+    margin: 5px;
+
+}
+
+.section {
+    margin: -10px 20px 20px 20px;
+   
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    display: flex;
+    overflow: hidden;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    margin: 10px;
+    background-color: #8ef9f3 !important;
+    width:300px
+  }

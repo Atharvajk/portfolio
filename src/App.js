@@ -1,23 +1,33 @@
-import logo from './logo.svg';
-import './App.css';
-
+import "./App.css";
+import  MyNavbar from "./Components/MyNav"
+import Mytypewritter from "./Components/TypeWriting";
+import Intropage from "./pages/Intropage";
+import SectionTwo from "./pages/SectionTwo";
+import SectionThree from "./pages/SectionThree";
+import SkillSection from "./pages/SkillSection";
+import ProjectSection from "./pages/ProjectSection";
+import Contactpage from "./pages/Contactpage";
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      
+      <MyNavbar/>
+      <br></br>
+      {/* <Mytypewritter/> */}
+      <Intropage></Intropage>
+      <SectionTwo></SectionTwo>
+      <SectionThree></SectionThree>
+      <SkillSection></SkillSection>
+      <ProjectSection></ProjectSection>
+      <Contactpage></Contactpage>
+      <footer id="footer">
+      <div class="container">
+        <div class="copyright">2024 © Copyright <strong><span>Atharva Khodke</span></strong>. All Rights Reserved</div>
+        </div>
+        </footer>
+
+
+      
     </div>
   );
 }

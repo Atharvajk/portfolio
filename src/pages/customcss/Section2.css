@@ -1,0 +1,28 @@
+.SectionTwo{
+    height: 450px;
+    display:flex;
+    align-items: center;
+    /* height: 300px; */
+    /* background-color: #4CB9E7; */
+    color:white;
+    overflow: hidden; 
+    background: rgb(2, 1, 26);
+/* background: linear-gradient(180deg, rgba(2,0,36,1) 40%, rgb(5, 5, 85) 100%); */
+/* margin-top: -25px; */
+justify-content: center;
+}
+.whodiv{
+    padding: 20px;
+    font-size: 40px;
+    width: 80%;
+    color: #8ef9f3;
+    
+}
+.info{
+   font-size: 23px;
+   margin-top: 30px;
+   display:flex;
+   justify-content: space-around;
+    
+    
+}

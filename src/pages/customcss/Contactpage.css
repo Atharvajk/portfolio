@@ -1,0 +1,31 @@
+.Contactpage{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-top: 10px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    /* align-content: center; */
+    /* justify-content: center; */
+}
+
+.contact-box{
+    display: flex;
+    align-items: center;
+    width: 700px;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+    
+    padding: 30px;
+}
+.contact-area{
+    width: 100%;
+}
+.form-label{
+    color: #8ef9f3;
+}
+.btn{
+    color: black !important;
+    background-color: #5efc8d !important;
+}

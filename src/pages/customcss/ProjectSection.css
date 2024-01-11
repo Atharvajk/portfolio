@@ -1,0 +1,143 @@
+.ProjectSection {
+  margin-top: 30px;
+  padding-top: 100px;
+  padding-bottom: 80px;
+  position: relative;
+ 
+  background-image: 
+      linear-gradient(to bottom, rgba(255, 255, 255, 0), rgb(2, 1, 26)),
+      linear-gradient(to top, rgba(255, 255, 255, 0), rgb(2, 1, 26)),
+      url('/src/images/proj_back.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+
+  /* To ensure the gradients are on top of the background image */
+  position: relative;
+  z-index: 1;
+}
+
+
+
+/* Add your general styling here */
+
+.myprojects {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-bottom: 50px;
+    padding-bottom: 50px;
+  }
+  
+  .project {
+    cursor: pointer;
+    margin: 10px;
+    width: 400px !important;
+    height: 500px !important;
+    
+  }
+  .project-card {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    height: var(--bs-card-height);
+    color: #8ef9f3;
+    word-wrap: break-word;
+    background-color: var(--bs-card-bg);
+    background-clip: border-box;
+    border: 1px solid white !important;
+    border-radius: 15px;
+    align-content: center;
+    align-items: center;
+    backdrop-filter: blur(15px);
+    
+    box-shadow: 0px 0px 10px #8ef9f3;
+    text-align: center;
+  }
+  
+  .project img {
+    padding: 10px;
+    max-width: 300px; 
+    max-height: 300px;
+    aspect-ratio: 4/3;
+    object-fit: contain;
+  }
+  .modal-content img {
+    padding: 10px;
+
+     max-width: 100%;
+    max-height: 100%; 
+    height: 80%;
+    /* align-items: center !important; */
+  }
+  .project-card h3 {
+    color: #5efc8d !important;
+  }
+  
+  .modal { 
+    
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.7);
+  }
+  
+  .modal.show {
+    display: block;
+  }
+  
+  .modal-content {
+    background-color: rgb(2, 1, 26) !important;
+    color:#8ef9f3 !important;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #fff;
+    padding: 20px;
+    width: 80% !important;
+    /* height: 600px; */
+    display: flex;
+    
+    
+  }
+  .modal-content h2  {
+    text-align: center !important;
+    color: #5efc8d;
+  }
+  .cont{
+    display: flex;
+
+  }
+.modal-left{
+  width: 60% ;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+}
+.modal-right{
+  width: 40%;
+}
+
+  .close {
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+    cursor: pointer;
+    position: absolute;
+  }
+  
+  .close:hover,
+  .close:focus {
+    color: black;
+    text-decoration: none;
+  }
+  

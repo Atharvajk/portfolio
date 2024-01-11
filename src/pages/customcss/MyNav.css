@@ -1,0 +1,30 @@
+.myNav{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-content: center;
+    justify-content: space-evenly;
+    text-decoration: none;
+    padding:25px;
+    font-size: 18px;
+    align-items: center;
+    background: rgba(2,0,36,1);
+/* background: linear-gradient(180deg, rgba(2,0,36,1) 40%, rgb(5, 5, 85) 100%); */
+    
+}
+.navlinks {text-decoration : none;
+color: white;
+
+padding: 8px 20px 8px 20px;
+/* background-color: rgb(183, 180, 0);
+    border-radius: 5px; */
+}
+
+.namelink{
+    text-decoration : none;
+    color: white;
+    border: 1px solid #5efc8d;
+    /* background-color: palegreen; */
+    padding: 8px 20px 8px 20px;
+    border-radius: 5px;
+}

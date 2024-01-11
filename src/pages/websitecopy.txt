@@ -1,0 +1,36 @@
+Atharva Khodke - Computer Engineer & Innovator
+Welcome to My Digital Space
+Hello, I'm Atharva Khodke, a passionate computer engineer on a journey to transform ideas into digital realities. With a relentless pursuit of knowledge and a knack for innovation, I've honed my skills in various technologies and programming languages.
+
+Who Am I?
+I am a third-year computer engineering student at Pune Institute of Computer Technology, driven by the desire to push the boundaries of what's possible in the world of technology. My journey began at IOPE, Lonere, where I earned a diploma in computer engineering with a remarkable CGPA of 96.3%.
+
+What Sets Me Apart?
+Technical Expertise:
+
+Proficient in C, Java, Python, and more.
+Well-versed in cloud programming, data structures, and algorithms.
+Explored Flutter, XAMP stack, MERN stack, Flask, and GitHub.
+Project Portfolio:
+I believe in learning by doing. I've undertaken multiple projects that not only tested my skills but also showcased my ability to innovate. From developing dynamic web applications to leading collaborative projects, I thrive in turning ideas into reality.
+
+Leadership Skills:
+As a team leader and project manager, I've successfully navigated the challenges of group projects. Collaboration, effective communication, and leadership have been my guiding principles.
+
+What I Bring to the Table:
+Innovative & Technical Skills:
+My passion for technology is fueled by a combination of innovative thinking and solid technical skills. I don't just code; I create solutions.
+
+Learning Ability:
+In the ever-evolving world of technology, I thrive on continuous learning. Each project is an opportunity to expand my knowledge and skills.
+
+Communication & Leadership:
+I excel not only in writing code but also in conveying ideas and leading teams. Effective communication is key to successful projects, and I take pride in my leadership abilities.
+
+Explore My Work:
+Navigate through my portfolio to explore the projects that define my journey. From coding challenges to full-fledged applications, each project reflects my commitment to excellence and innovation.
+
+Let's Connect:
+I'm open to exciting opportunities and collaborations. If you're as passionate about technology as I am, let's connect! Feel free to reach out for job opportunities, collaborations, or just a chat about the future of tech.
+
+Thank you for visiting my digital space. Let's build the future together!
