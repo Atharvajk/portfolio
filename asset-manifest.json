@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Atharvajk.github.io/portfolio/static/css/main.4fff4625.css",
+    "main.js": "/Atharvajk.github.io/portfolio/static/js/main.869ad9c9.js",
+    "static/js/787.4bad8ed7.chunk.js": "/Atharvajk.github.io/portfolio/static/js/787.4bad8ed7.chunk.js",
+    "static/media/proj_back.jpg": "/Atharvajk.github.io/portfolio/static/media/proj_back.232416f3335574829549.jpg",
+    "static/media/profileimage.png": "/Atharvajk.github.io/portfolio/static/media/profileimage.d29cf2365e4f51bc90f1.png",
+    "static/media/profileimg.png": "/Atharvajk.github.io/portfolio/static/media/profileimg.bf50ed9a9cff4c84b3a5.png",
+    "static/media/QRollcall.png": "/Atharvajk.github.io/portfolio/static/media/QRollcall.bfa438ecf832219f42ae.png",
+    "static/media/dotpattern.png": "/Atharvajk.github.io/portfolio/static/media/dotpattern.dcfd78b100faf24313b4.png",
+    "static/media/BuyatBestPrice.png": "/Atharvajk.github.io/portfolio/static/media/BuyatBestPrice.fa1269dfd68d5fa17c77.png",
+    "index.html": "/Atharvajk.github.io/portfolio/index.html",
+    "main.4fff4625.css.map": "/Atharvajk.github.io/portfolio/static/css/main.4fff4625.css.map",
+    "main.869ad9c9.js.map": "/Atharvajk.github.io/portfolio/static/js/main.869ad9c9.js.map",
+    "787.4bad8ed7.chunk.js.map": "/Atharvajk.github.io/portfolio/static/js/787.4bad8ed7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4fff4625.css",
+    "static/js/main.869ad9c9.js"
+  ]
+}
