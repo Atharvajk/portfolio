@@ -26,7 +26,7 @@ function App() {
         </div>
         </footer>
 
-
+{/* npm run deploy */}
       
     </div>
   );

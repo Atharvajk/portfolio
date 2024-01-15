@@ -44,6 +44,9 @@ border-radius: 0px 0px 50px 50px;
     width: 80%;
     
 }
+.Typewritter span{
+    font-size: 2rem;
+}
 .mybutton{
     height: 30px;
     width: 50px;
@@ -53,6 +56,7 @@ border-radius: 0px 0px 50px 50px;
     border-radius: 10px;
     color: #8ef9f3;
 }
+
 .downloadbut{
     /* background-color: goldenrod; */
     background-color: #5efc8d;
@@ -79,3 +83,56 @@ border-radius: 0px 0px 50px 50px;
     overflow: hidden;
     
 }
+
+
+/* Mobile styles */
+@media (max-width: 768px) {
+    .intropagediv {
+      height: auto;
+      flex-direction: column-reverse;
+    }
+  
+    .leftdiv,
+    .rightdiv {
+      width: 100%;
+      
+    }
+  
+    .profimgdiv {
+        margin-top: -10px;
+      max-width: 100%;
+      
+    }
+    .profimgdiv img{
+        object-fit: cover;
+        width: 100%;
+        height: 371px;
+        position: relative;
+
+    }
+  
+    .introname {
+      font-size: 2rem;
+    }
+  
+    .introname span {
+        content: "\a";
+        white-space: pre;
+      font-size: 1.7rem;
+    }
+  
+    .mybutton {
+      width: 100%;
+      /* margin-right: 5px;
+      margin-bottom: 10px; */
+    }
+    .butdiv{
+        display: flex;
+        font-size: 15px;
+        margin-bottom: 20px;
+        justify-content: space-between;
+    }
+    .Typewritter span{
+        font-size: 1rem;
+    }
+  }

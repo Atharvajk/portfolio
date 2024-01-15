@@ -34,9 +34,9 @@ const Typewriter = ({ strings, speed }) => {
   }, [currentPosition, currentStringIndex, strings, speed, isReversing]);
   
   return (
-    <div>
+    <div className='Typewritter'>
       
-      <span style={{ fontSize:"25px" }}>{strings[currentStringIndex].substring(0, currentPosition)}</span>
+      <span >{strings[currentStringIndex].substring(0, currentPosition)}</span>
       <span style={{ display: 'inline-block', width: "10px" }}>&nbsp;</span>
     </div>
   );
