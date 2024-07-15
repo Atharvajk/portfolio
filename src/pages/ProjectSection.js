@@ -10,7 +10,7 @@ function ProjectSection() {
       ];
       
   return (
-    <div className="ProjectSection">
+    <div className="ProjectSection" id='projects'>
         {/* <img src={project1} alt={""} /> */}
 
         <h2 style={{ fontSize:"40px",fontFamily:"Georgia",textAlign:"center",marginTop:"20px", color:"#5efc8d "}} >My Projects</h2>

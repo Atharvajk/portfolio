@@ -2,7 +2,7 @@ import React from 'react'
 import '../pages/customcss/Section2.css'
 function SectionTwo() {
   return (
-    <div className='SectionTwo'>
+    <div className='SectionTwo' id='about'>
         <div className="whodiv">
 
         <h1 style={{ fontSize:"40px",fontFamily:"Georgia", textAlign:"center",color:"#5efc8d"}}>Who am I?</h1>

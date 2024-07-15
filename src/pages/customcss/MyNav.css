@@ -8,12 +8,20 @@
     padding: 25px;
     font-size: 18px;
     align-items: center;
-    background: rgba(2, 0, 36, 1);
+    background: rgba(2, 0, 36,  0.6);
+    position: sticky; top: 0;
+    z-index: 5;
+    
   }
   
   .myNav.open {
     flex-direction: column;
     align-items: flex-start;
+  }
+  .sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
   }
   
   .linksdiv {

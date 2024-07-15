@@ -4,7 +4,7 @@ import Marquee from 'react-fast-marquee'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 function SkillSection() {
   return (
-    <div className='SkillSection'>
+    <div className='SkillSection' id='skills'>
         <div className="skillcontainer">
         {/* <h2 style={{ fontSize:"40px",fontFamily:"Georgia",textAlign:"center",marginTop:"20px", color:"#5efc8d "}} >What Sets Me Apart?</h2> */}
         <h2 style={{ fontSize:"40px",fontFamily:"Georgia",textAlign:"center",marginTop:"20px", color:"#5efc8d "}} >What I Bring to the Table?</h2>

@@ -27,8 +27,14 @@ function Intropage() {
     // Remove the anchor from the body
     document.body.removeChild(anchor);
   };
+  const handleClick = () => {
+    const targetElement = document.getElementById('contact');
+    if (targetElement) {
+      targetElement.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    };
+  };
   return (
-    <div className='intropagediv' >
+    <div className='intropagediv' id='intro'>
       
         <div className='leftdiv'>
           <div className="leftdivinfo">
@@ -38,7 +44,7 @@ function Intropage() {
         <br />
         <div className="butdiv">
 
-        <button className = "mybutton contactbut" href="">Contact me</button>
+        <button className = "mybutton contactbut" href="#contact" onClick={handleClick}>Contact me</button>
         
 
         <button  className = "mybutton downloadbut" href={MyResume} onClick={downloadFile}>Download Resume</button>

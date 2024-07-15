@@ -11,7 +11,7 @@
 
 .contact-box{
     display: flex;
-    align-items: center;
+
     width: 700px;
     flex-direction: column;
     align-content: center;
