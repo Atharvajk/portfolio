@@ -16,7 +16,7 @@
     flex-direction: column;
     align-content: center;
     justify-content: center;
-    
+   
     padding: 30px;
 }
 .contact-area{
@@ -28,4 +28,10 @@
 .btn{
     color: black !important;
     background-color: #5efc8d !important;
+}
+/* Mobile styles */
+@media (max-width: 768px) {
+    .contact-box{
+        align-items: center;
+    }
 }
