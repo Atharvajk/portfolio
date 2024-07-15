@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.c0dd4891.css",
-    "main.js": "/portfolio/static/js/main.58f54bf3.js",
+    "main.css": "/portfolio/static/css/main.acbc7daf.css",
+    "main.js": "/portfolio/static/js/main.ae025096.js",
     "static/js/787.4bad8ed7.chunk.js": "/portfolio/static/js/787.4bad8ed7.chunk.js",
     "static/media/proj_back.jpg": "/portfolio/static/media/proj_back.232416f3335574829549.jpg",
-    "static/media/Atharva_Khodke_Resume.pdf": "/portfolio/static/media/Atharva_Khodke_Resume.814df666a88e2785ff5f.pdf",
+    "static/media/Atharva_Khodke_Resume.pdf": "/portfolio/static/media/Atharva_Khodke_Resume.d52bbe1f1344cc9bdd80.pdf",
     "static/media/profileimage.png": "/portfolio/static/media/profileimage.d29cf2365e4f51bc90f1.png",
     "static/media/profileimg.png": "/portfolio/static/media/profileimg.bf50ed9a9cff4c84b3a5.png",
     "static/media/QRollcall.png": "/portfolio/static/media/QRollcall.bfa438ecf832219f42ae.png",
     "static/media/dotpattern.png": "/portfolio/static/media/dotpattern.dcfd78b100faf24313b4.png",
     "static/media/BuyatBestPrice.png": "/portfolio/static/media/BuyatBestPrice.fa1269dfd68d5fa17c77.png",
     "index.html": "/portfolio/index.html",
-    "main.c0dd4891.css.map": "/portfolio/static/css/main.c0dd4891.css.map",
-    "main.58f54bf3.js.map": "/portfolio/static/js/main.58f54bf3.js.map",
+    "main.acbc7daf.css.map": "/portfolio/static/css/main.acbc7daf.css.map",
+    "main.ae025096.js.map": "/portfolio/static/js/main.ae025096.js.map",
     "787.4bad8ed7.chunk.js.map": "/portfolio/static/js/787.4bad8ed7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c0dd4891.css",
-    "static/js/main.58f54bf3.js"
+    "static/css/main.acbc7daf.css",
+    "static/js/main.ae025096.js"
   ]
 }
